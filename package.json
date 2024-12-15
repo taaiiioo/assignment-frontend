@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "vue-frontend",
   "private": true,
   "version": "0.0.0",
@@ -13,16 +12,11 @@
     "axios": "^1.7.8",
     "three": "^0.171.0",
     "vue": "^3.5.13",
-    "vuex": "^4.0.2"
+    "vuex": "^4.0.2",
+    "vue-router": "^4.5.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.1",
     "vite": "^6.0.1"
-=======
-  "dependencies": {
-    "axios": "^1.7.8",
-    "three": "^0.171.0",
-    "vue-router": "^4.5.0"
->>>>>>> 1aea1773e657bf55da82486c1b309f9036d2d308
   }
 }
